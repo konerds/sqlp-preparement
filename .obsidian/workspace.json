@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-sql고급활용및튜닝/5. 고급 SQL 튜닝.md",
+                "file": "1-데이터모델링의이해/1. 데이터 모델링의 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 고급 SQL 튜닝"
+              "title": "1. 데이터 모델링의 이해"
             }
           }
         ],
@@ -189,8 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0024ff379dde15",
+  "active": "215edc0544d15740",
   "lastOpenFiles": [
+    "assets/1-1-3.png",
+    "assets/1-1-2.png",
+    "assets",
+    "assets/1-1-1.png",
+    "README.md",
+    "1-데이터모델링의이해/1. 데이터 모델링의 이해.md",
+    "3-sql고급활용및튜닝/5. 고급 SQL 튜닝.md",
     "3-sql고급활용및튜닝/4. 인덱스와 조인.md",
     "3-sql고급활용및튜닝/3. 옵티마이저 원리.md",
     "3-sql고급활용및튜닝/2. Lock 과 트랜잭션 동시성 제어.md",
@@ -199,9 +206,6 @@
     "2-sql기본및활용/2. SQL 활용.md",
     "2-sql기본및활용/1. SQL 기본.md",
     "1-데이터모델링의이해/2. 데이터 모델과 성능.md",
-    "1-데이터모델링의이해/1. 데이터 모델링의 이해.md",
-    "README.md",
-    "3-sql고급활용및튜닝/5. 고급 SQL 튜닝.md",
     "3-sql고급활용및튜닝",
     "2-sql기본및활용",
     "1-데이터모델링의이해"
