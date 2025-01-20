@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ea977b1b157d213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "2c0024ff379dde15",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "1. 데이터 모델링의 이해"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,29 +175,28 @@
   },
   "active": "2c0024ff379dde15",
   "lastOpenFiles": [
+    "assets/1-1-16.png",
+    "1-데이터모델링의이해/1. 데이터 모델링의 이해.md",
+    "assets/1-1-21.png",
+    "assets/1-1-14.png",
+    "1-데이터모델링의이해/2. 데이터 모델과 성능.md",
+    "README.md",
+    "assets/1-1-15.png",
+    "assets/1-1-17.png",
+    "assets/1-1-20.png",
+    "assets/1-1-19.png",
+    "assets/1-1-18.png",
+    "2-sql기본및활용/1. SQL 기본.md",
+    "2-sql기본및활용/2. SQL 활용.md",
+    "2-sql기본및활용/3. SQL 최적화 기본 원리.md",
     "assets/1-1-13.png",
     "assets/1-1-12.png",
-    "assets/1-1-11.png",
-    "assets/1-1-10.png",
-    "assets/1-1-9.png",
-    "assets/1-1-5.png",
-    "1-데이터모델링의이해/1. 데이터 모델링의 이해.md",
-    "assets/1-1-8.png",
-    "assets/1-1-7.png",
-    "assets/1-1-6.png",
-    "assets/1-1-4.png",
-    "assets/1-1-1.png",
     "assets",
-    "README.md",
     "3-sql고급활용및튜닝/5. 고급 SQL 튜닝.md",
     "3-sql고급활용및튜닝/4. 인덱스와 조인.md",
     "3-sql고급활용및튜닝/3. 옵티마이저 원리.md",
     "3-sql고급활용및튜닝/2. Lock 과 트랜잭션 동시성 제어.md",
     "3-sql고급활용및튜닝/1. 아키텍처 기반 튜닝 원리.md",
-    "2-sql기본및활용/3. SQL 최적화 기본 원리.md",
-    "2-sql기본및활용/2. SQL 활용.md",
-    "2-sql기본및활용/1. SQL 기본.md",
-    "1-데이터모델링의이해/2. 데이터 모델과 성능.md",
     "3-sql고급활용및튜닝",
     "2-sql기본및활용",
     "1-데이터모델링의이해"
